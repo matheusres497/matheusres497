@@ -1,4 +1,3 @@
-# teste-primeiro
+# Olá,
 
-teste teste teste
-teste teste teste teste teste
+Estou atualmente cursando ADS. Irei atualizar a página conforme aprendo.
